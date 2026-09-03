@@ -1,6 +1,26 @@
-👨‍💻 Sobre mim<br><br>Sou um entusiasta e pesquisador na área de Machine Learning, com experiência prática no desenvolvimento de projetos aplicados, especialmente nos domínios de saúde e, atualmente, segurança da informação. Tenho interesse em explorar soluções inteligentes para problemas reais, com foco em análise de dados e sistemas preditivos.<br><br>🤖 Engenharia de Dados e IA<br><br>Atuo como Engenheiro de Dados no Laboratório de Redes de Computadores e Segurança da UECE, trabalhando no desenvolvimento de modelos voltados para classificação de ataques de rede. No meu dia a dia, utilizo ferramentas e bibliotecas como:<br><br>scikit-learn<br>Modelos como:<br>Random Forest<br>KNN (K-Nearest Neighbors)<br>Entre outros algoritmos de classificação<br><br>Tenho foco em construir pipelines eficientes e modelos com bom desempenho, sempre considerando custo computacional e aplicabilidade prática.<br><br>Busco entender desde a infraestrutura até a aplicação de serviços escaláveis para projetos de dados e machine learning.<br><br>📊 Experiência com Dados<br><br>Também possuo experiência como Analista de Dados, onde trabalhei com ferramentas de visualização e BI, como:<br><br>Looker<br>Power BI<br><br>Atuando na análise, interpretação e apresentação de dados para geração de insights estratégicos.
 
+Sou pesquisador e engenheiro de dados com foco em **Machine Learning**. Desenvolvo soluções para problemas reais por meio de análise de dados, classificação e modelos preditivos.
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+Atualmente, trabalho no Laboratório de Redes de Computadores e Segurança da UECE, desenvolvendo modelos para **classificação de ataques de rede**. Busco criar pipelines eficientes,equilibrando desempenho, custo computacional e aplicação prática.
+
+Também sou estagiário de dados e IA no ApLIS, ajudando no desenvolvimento de soluções envolvendo dados no âmbito de gerenciamento de laboratórios de anatomia patológica a partir de decisões tomadas com base em dados.
+
+Por fim, possuo experiência com análise e visualização de dados, utilizando **Power BI** e **Looker Studio** para transformar dados em informações relevantes.
+
+  ## 🤖 Principais interesses
+
+  - Machine Learning
+  - Classificação e análise preditiva
+  - Segurança da informação
+  - Pipelines e análise de dados
+  - Business Intelligence
+
+  ## 🛠️ Tecnologias
+
+  ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+  ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+  ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+  ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+  ![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=matplotlib&logoColor=black)
+  ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+  ![Looker Studio](https://img.shields.io/badge/Looker%20Studio-4285F4?style=for-the-badge&logo=looker&logoColor=white)
