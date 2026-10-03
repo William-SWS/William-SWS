@@ -1,3 +1,15 @@
+<p align="center">
+  <img src="assets/header.svg" alt="Header animado" width="100%"/>
+</p>
+
+## `$ cat sobre.json`
+
+​```json
+{
+  "nome": "William",
+  "foco": ["Dados", "Machine Learning", "Segurança em IoT"]
+}
+​```
 
 ## Hi, I'm William! 😄
 
