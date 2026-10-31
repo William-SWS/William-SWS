@@ -17,7 +17,7 @@ I'm a Computer Science student at [UECE](https://www.uece.br/), Data Analyst int
 
 I'm passionate about transforming complex datasets into actionable insights, designing machine learning models for low-latency/edge computing, and building robust data workflows. When I'm not training models, optimizing SQL stored procedures, or designing dashboards, you'll probably find me exploring concurrent systems in Go or diving into new tech. 🚀
 
-**Want to build something together? You (🫵) can reach me here:**
+** You (🫵) can reach me here:**
 
 <a href="https://www.linkedin.com/in/samuel-william-sws" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="mailto:samuelwilliam.ct@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
