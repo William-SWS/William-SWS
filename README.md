@@ -2,7 +2,7 @@
   <img src="assets/header.svg" alt="Header animado" width="100%"/>
 </p>
 
-## `$ cat sobre.json`
+## `$ cat about.json`
 
 ​```json
 {
