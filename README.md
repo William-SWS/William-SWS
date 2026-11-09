@@ -1,115 +1,42 @@
 <p align="center">
-  <img src="assets/header.svg" alt="Header animado" width="100%"/>
+  <img src="assets/terminal.svg" alt="Terminal mostrando o perfil de William: estudante de Ciência da Computação na UECE, com foco em dados, machine learning e segurança em IoT" width="100%"/>
 </p>
 
-## `$ cat about.json`
+<p align="center">
+  <a href="https://www.linkedin.com/in/samuel-william-sws" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:samuelwilliam.ct@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"></a>
+  <a href="https://www.datacamp.com/certificate/DSA0012427742394" target="_blank"><img src="https://img.shields.io/badge/DataCamp-Associate_Data_Scientist-03EF62?style=for-the-badge&logo=datacamp&logoColor=black" alt="Certificado DataCamp Associate Data Scientist"></a>
+</p>
 
-​```json
-{
-  "nome": "William",
-  "foco": ["Dados", "Machine Learning", "Segurança em IoT"]
-}
-​```
+## `$ man william`
 
-## Hi, I'm William! 😄
+Estudante de Ciência da Computação na [UECE](https://www.uece.br/), estagiário de análise de dados na [ApLIS](https://aplis.inf.br/), pesquisador de Machine Learning no [LARCES](https://sites.google.com/view/larces/home) (Laboratório de Redes de Computadores e Segurança) e ex-mentor e analista de dados no [Instituto iREDE](https://www.irede.org.br/).
 
-I'm a Computer Science student at [UECE](https://www.uece.br/), Data Analyst intern at [ApLIS](https://aplis.inf.br/), Machine Learning Researcher at [LARCES]([http://www.larces.uece.br/](https://sites.google.com/view/larces/home?authuser=0)) (Computer Networks and Security Laboratory), and former mentor & data analyst at [Instituto iREDE](https://www.irede.org.br/).
-
-I'm passionate about transforming complex datasets into actionable insights, designing machine learning models for low-latency/edge computing, and building robust data workflows. When I'm not training models, optimizing SQL stored procedures, or designing dashboards, you'll probably find me exploring concurrent systems in Go or diving into new tech. 🚀
-
-**You (🫵) can reach me here:**
-
-<a href="https://www.linkedin.com/in/samuel-william-sws" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="mailto:samuelwilliam.ct@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+Gosto de transformar conjuntos de dados complexos em decisões, projetar modelos de machine learning para baixa latência e computação de borda e montar fluxos de dados robustos. Quando não estou treinando modelos, otimizando stored procedures em SQL ou montando dashboards, provavelmente estou explorando sistemas concorrentes em Go.
 
 ---
 
-## **🏅 Certifications & Profiles**
+## `$ ls -l projetos/destaque`
 
-<div>
+> Machine learning, pesquisa em segurança e sistemas orientados a dados.
 
-<a href="https://www.datacamp.com/certificate/DSA0012427742394" target="_blank"><img src="https://img.shields.io/badge/DataCamp-Associate_Data_Scientist-03EF62?style=for-the-badge&logo=datacamp&logoColor=black"></a>
-
-</div>
-
----
-
-## **🌟 Featured Projects**
-
-> Machine learning, security research, and data-driven systems.
-
-<div align="center">
-
-<table width="100%">
-  <tr>
-    <th align="left">Project</th>
-    <th align="left">Description</th>
-    <th align="left">Technologies</th>
-  </tr>
-
-  <tr>
-    <td><a href="https://github.com/William-SWS/mqtt_under_attack"><strong>MQTT Under Attack</strong></a></td>
-    <td>Machine learning benchmarks evaluating classical models for low-latency DoS detection in edge computing and IoT environments.</td>
-    <td> Python • FastAPI • Scikit-Learn • Jupyter • IoT • Edge AI • Anomaly Detection</td>
-  </tr>
-  
-  <tr>
-    <td><a href="https://github.com/William-SWS/fashion-classificator"><strong>Fashion Classificator</strong></a></td>
-    <td>Computer vision pipeline on Fashion-MNIST evaluating image preprocessing filters, feature engineering, and model classification impact.</td>
-    <td> Python • OpenCV • Scikit-Learn • Computer Vision • EDA • Jupyter</td>
-  </tr>
-
-  <tr>
-    <td><a href="https://github.com/William-SWS/Deteccao-de-Ataques-com-ADFA-LD"><strong>ADFA-LD Attack Detection</strong></a></td>
-    <td>Operating systems security benchmark classifying host-based system call traces (syscalls) with Random Forest to detect intrusion behavior.</td>
-    <td> Python • Random Forest • Machine Learning • Linux Syscalls • Security</td>
-  </tr>
-
-  <tr>
-    <td><a href="https://github.com/CareerPath-AI"><strong>CareerPath-AI</strong></a></td>
-    <td>AI-driven platform integrating LLMs to tailor CVs, benchmark candidate competencies against vacancies, and recommend structured study paths.</td>
-    <td> Python • LLMs • FastAPI • LangChain • Prompt Engineering • Data Modern Stack</td>
-  </tr>
-
-</table>
-
-</div>
+| Projeto | Descrição | Tecnologias |
+| --- | --- | --- |
+| [**MQTT Under Attack**](https://github.com/William-SWS/mqtt_under_attack) | Benchmarks de machine learning avaliando modelos clássicos para detecção de DoS de baixa latência em computação de borda e ambientes IoT. | Python · FastAPI · Scikit-Learn · Jupyter · IoT · Edge AI · Anomaly Detection |
+| [**Fashion Classificator**](https://github.com/William-SWS/fashion-classificator) | Pipeline de visão computacional no Fashion-MNIST que avalia o impacto de filtros de pré-processamento, engenharia de atributos e modelos de classificação. | Python · OpenCV · Scikit-Learn · Visão Computacional · EDA · Jupyter |
+| [**ADFA-LD Attack Detection**](https://github.com/William-SWS/Deteccao-de-Ataques-com-ADFA-LD) | Benchmark de segurança de sistemas operacionais que classifica traços de chamadas de sistema (syscalls) com Random Forest para detectar comportamento de intrusão. | Python · Random Forest · Machine Learning · Syscalls Linux · Segurança |
+| [**CareerPath-AI**](https://github.com/CareerPath-AI) | Plataforma com LLMs que adapta currículos, compara as competências de candidatos com as vagas e recomenda trilhas de estudo. | Python · LLMs · FastAPI · LangChain · Prompt Engineering · Modern Data Stack |
 
 ---
 
-## **💻 Systems, Exploration & Coursework**
+## `$ ls -l projetos/estudos`
 
-> Concurrency experiments, exploratory network analysis, and continuous learning.
+> Experimentos de concorrência, análise exploratória de redes e aprendizado contínuo.
 
-<div>
+| Projeto | Descrição | Tecnologias |
+| --- | --- | --- |
+| [**Drinking Philosophers in Go**](https://github.com/William-SWS/drinking_philosophers_in_go) | Implementação do problema dos filósofos bebedores de Chandy-Misra, tratando alocação distribuída de recursos e gargalos de sincronização. | Go · Goroutines · Channels · Algoritmos Distribuídos · Concorrência |
+| [**MQTT Exploration**](https://github.com/William-SWS/mqtt_exploration) | Análise exploratória (EDA) e perfilamento de datasets de tráfego MQTT para caracterizar o comportamento da rede sob diferentes ataques. | Python · Pandas · NumPy · Matplotlib · Seaborn · Perfilamento de Rede |
+| [**ML Zoomcamp Portfolio**](https://github.com/William-SWS/machine-learning-zoomcamp-course) | Documentação, exercícios e fluxos de deploy do Machine Learning Zoomcamp da DataTalks.Club. | Python · Docker · Flask · Scikit-Learn · MLOps · Deploy |
 
-<table width="100%">
-  <tr>
-    <th align="left">Project</th>
-    <th align="left">Description</th>
-    <th align="left">Technologies</th>
-  </tr>
-
-  <tr>
-    <td><a href="https://github.com/William-SWS/drinking_philosophers_in_go"><strong>Drinking Philosophers in Go</strong></a></td>
-    <td>Implementation of the Chandy-Misra drinking philosophers problem solving distributed resource allocation and synchronization bottlenecks.</td>
-    <td> Go (Golang) • Goroutines • Channels • Distributed Algorithms • Concurrency</td>
-  </tr>
-
-  <tr>
-    <td><a href="https://github.com/William-SWS/mqtt_exploration"><strong>MQTT Exploration</strong></a></td>
-    <td>Exploratory data analysis (EDA) and profiling of MQTT network traffic datasets to characterize network behaviors under varied attacks.</td>
-    <td> Python • Pandas • NumPy • Matplotlib • Seaborn • Network Profiling</td>
-  </tr>
-
-  <tr>
-    <td><a href="https://github.com/William-SWS/machine-learning-zoomcamp-course"><strong>ML Zoomcamp Portfolio</strong></a></td>
-    <td>Comprehensive project documentation, coursework, and deployment workflows from the DataTalks.Club Machine Learning Zoomcamp.</td>
-    <td> Python • Docker • Flask • Scikit-Learn • MLOps • Deployment</td>
-  </tr>
-
-</table>
-
-</div>
-
-
+<p align="center"><sub><code>$ exit</code></sub></p>
